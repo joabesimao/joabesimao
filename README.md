@@ -4,10 +4,13 @@
 
   => Atualmente estou aprendendo node.js,python,javaScript e java.
   
-            <i class="devicon-git-plain colored"></i>
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
   => Analise e desenvolvimento de sistemas 
 
       
-            <i class="devicon-debian-plain-wordmark colored"></i>
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
           
