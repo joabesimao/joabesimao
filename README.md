@@ -1,6 +1,5 @@
 # Joabe Simão #
 
-https://tenor.com/view/technology-gif-11614275
 
 ## Hello, Devs!! ##
 
