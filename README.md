@@ -1,5 +1,5 @@
 # Joabe Simão #
-<div class="tenor-gif-embed" data-postid="17448092" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/desktop-computer-objects-joypixels-personal-computer-office-computer-gif-17448092">Desktop Computer Objects Sticker</a>from <a href="https://tenor.com/search/desktop+computer-stickers">Desktop Computer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/desktop-computer-objects-joypixels-personal-computer-office-computer-gif-17448092">Desktop Computer Objects Sticker</a>from <a href="https://tenor.com/search/desktop+computer-stickers">
 
 ## Hello, Devs!! ##
 
