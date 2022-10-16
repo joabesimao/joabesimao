@@ -1,7 +1,7 @@
 # Joabe Simão #
   
   ## Hello ##
-  My name is Joabe and this is my personagem github page
+  My name is Joabe and this is my github page
 
  I'm studying systems analysis and development,Aiming at personal and professional growth, I've been consolidating my knowledges about software develop,always looking for updating my skills about new technologies and solutions.
 
