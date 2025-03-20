@@ -12,14 +12,12 @@ Sou um desenvolvedor de software formado em Análise e Desenvolvimento de Sistem
 - Tive a oportunidade de participar de um projeto de gerenciamento de taxas de crédito consignado, mantendo e criando novas features para o backend do projeto em NodeJS.
 
 🧠 Soft skills 🧠
-
-- Meus colegas de trabalho me reconhecem como uma pessoa fácil de trabalhar, com boa comunicação, vontade de aprender e compartilhar conhecimentos.
+Meus colegas de trabalho me descreveram como um profissional com boa comunicação, disponibilidade para aprender novas tecnologias e compartilhar conhecimento.
 
 💻 Hard Skills 💻
-- Proeficiente: Node.js (Typescript | Javascript), API REST
-- Intermediário: Nest.js, Git, Docker, Teste Unitário, TDD, Mysql, MongoDB, Scrum
-- Básico: AWS, Java, Padrões de Projeto
-
+- Proeficiente: NodeJs (Typescript | Javascript) | Git Flow
+- Intermediário: MySQL, Mongo Db, Jest, Teste Unitário, Scrum, TDD
+- Básico: NestJs, AWS, ReactJs, Github Actions, Python, Docker, Padrões de Projeto
 📚 Livros de Referência 📚
 - Bob Martin - Clean Code
 
