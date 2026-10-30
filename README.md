@@ -4,8 +4,6 @@
 
 Sou um desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, que gosta de criar soluções backend e frontend para serviços usando NodeJs, Docker, Mysql e MongoDb, buscando sempre aprimorar a qualidade e eficiência das soluções. 
 
-![Joabe Simão](https://github-readme-stats.vercel.app/api/top-langs/?username=joabesimao&layout=donut&langs_count=16&theme=dracula)
-![Joabe Simão](https://github-readme-stats.vercel.app/api?username=joabesimao&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 
 
 🗝 Key Achievements 🗝
